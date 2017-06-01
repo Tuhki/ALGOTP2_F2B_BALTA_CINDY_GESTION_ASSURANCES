@@ -1,0 +1,10 @@
+-- Je n'ai pas eu le temps de commencer cette partie-ci. Dans laquelle on pouvait chercher :
+-- Les personnes possédant plusieurs contrats 
+-- Les personnes possédant plusieurs contrats auto
+-- Les personnes possédant plusieurs contrats habitation
+-- Les personnes ne possédant ni contrat ni voiture
+-- Les personnes ne possédant une voiture mais n'ayant signé aucun contrat
+-- Les personnes signataires d'un contrat mais pas de voiture
+-- Le nombre d'accident selon l'année, le trimestre, le mois, etc.
+-- Les clients ayant eu des accidents impliquant plusieurs voitures
+-- etc...
